@@ -1,1 +1,2 @@
-num6 = 10
+print("zheshi ")
+num = 2
